@@ -9,16 +9,19 @@
 
 	<!--导入外部配置文件  -->
 	<context:property-placeholder location="classpath:/jdbc.properties"/>
-	
-	<!-- 扫描包 -->
-	<context:component-scan base-package="cn.tarena.ht.service" />
 
 	<!-- 数据源 -->
-	<bean id="dataSource" class="com.zaxxer.hikari.HikariDataSource">
-		<property name="driverClassName" value="${jdbcDriver}"/>
-		<property name="jdbcUrl" value="${jdbcUrl}"/>
-		<property name="username" value="${jdbcUser}"/>
-		<property name="password" value="${jdbcPassword}"/>
+	 <bean id="dataSource" 
+	class="com.mchange.v2.c3p0.ComboPooledDataSource">
+	
+	<property name="driverClass" value="${jdbcDriver}"></property>
+	<property name="jdbcUrl" value="${jdbcUrl}"></property>
+	<property name="user" value="${jdbcUser}"></property>
+	<property name="password" value="${jdbcPassword}"></property>
+	<property name="maxPoolSize" value="20"></property>
+	<property name="minPoolSize" value="3"></property>
 	</bean>
-
+	
+	
+	<context:component-scan base-package="cn.tedu.service" />
 </beans>
