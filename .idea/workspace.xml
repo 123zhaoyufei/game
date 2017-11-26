@@ -2,243 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07dbfe64-c69e-4184-a802-4a8f513f0304" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/add.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/con_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/icon2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/input.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/logo_820.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/logo_jc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/logo_ym.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/msg_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/msg_box.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/nav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/nopic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/pic1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/progressbar_microsoft.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/x_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/z2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/z3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Images/z4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/aero/aero_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/aero/aero_s2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/aero/ie6/aui_close.hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/aero/ie6/aui_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/aero/ie6/aui_e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/aero/ie6/aui_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/aero/ie6/aui_ne.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/aero/ie6/aui_nw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/aero/ie6/aui_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/aero/ie6/aui_se.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/aero/ie6/aui_sw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/aero/ie6/aui_title_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/aero/ie6/aui_w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/black/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/black/bg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/black/bg_css3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/black/bg_css3_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/black/ie6/close.hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/black/ie6/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/black/ie6/e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/black/ie6/n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/black/ie6/ne.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/black/ie6/nw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/black/ie6/s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/black/ie6/se.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/black/ie6/sw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/black/ie6/w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/blue/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/blue/bg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/blue/bg_css3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/blue/bg_css3_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/blue/ie6/close.hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/blue/ie6/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/blue/ie6/e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/blue/ie6/n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/blue/ie6/ne.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/blue/ie6/nw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/blue/ie6/s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/blue/ie6/se.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/blue/ie6/sw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/blue/ie6/w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/chrome/border.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/chrome/chrome_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/green/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/green/bg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/green/bg_css3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/green/bg_css3_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/green/color_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/green/ie6/close.hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/green/ie6/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/green/ie6/e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/green/ie6/n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/green/ie6/ne.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/green/ie6/nw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/green/ie6/s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/green/ie6/se.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/green/ie6/sw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/green/ie6/w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/icons/error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/icons/face-sad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/icons/face-smile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/icons/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/icons/question.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/icons/succeed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/icons/warning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/idialog/idialog_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/idialog/idialog_s2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/idialog/ie6/aui_close.hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/idialog/ie6/aui_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/idialog/ie6/aui_e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/idialog/ie6/aui_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/idialog/ie6/aui_ne.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/idialog/ie6/aui_nw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/idialog/ie6/aui_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/idialog/ie6/aui_se.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/idialog/ie6/aui_sw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/idialog/ie6/aui_w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/opera/ie6/aui_close.hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/opera/ie6/aui_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/opera/ie6/aui_e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/opera/ie6/aui_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/opera/ie6/aui_ne.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/opera/ie6/aui_nw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/opera/ie6/aui_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/opera/ie6/aui_se.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/opera/ie6/aui_sw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/opera/ie6/aui_w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/opera/s1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/opera/s2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/img/hide_list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/img/icon1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/img/icon2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/img/left-slib.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/img/main-nav-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/img/main-nav-bg1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/img/main-nav-bg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/img/menu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/img/nav.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/img/nav_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/img/resource.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/img/top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/front/Image/home4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/front/Image/icon-address.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/front/Image/icon-author.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/controller/BackgroundGameListC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/controller/BackgroundHomeC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/mapper/BackgroundGameListm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/service/BackgroundGameListS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/service/BackgroundGameListSImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mappers/BackgroundGameListM.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/background/Menu/add.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/background/Menu/edit.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/background/Menu/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/background/Public/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/background/Role/add.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/background/Role/edit.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/background/Role/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/background/User/add.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/background/User/edit.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/background/User/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/background/gamelist/add.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/background/gamelist/edit.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/background/gamelist/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/background/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Css/bootstrap-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/artDialog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/artDialog.source.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/jquery.artDialog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/jquery.artDialog.source.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/plugins/iframeTools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/plugins/iframeTools.source.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/aero.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/black.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/chrome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/idialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/opera.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/simple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/artDialog/skins/twitter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/bootstrap.file-input.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/ckform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/formValidator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/formValidatorRegex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/Js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/css/bui-min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/css/dpl-min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/css/main-min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/css/page-min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/css/page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/css/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/bui-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/bui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/common/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/common/main-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/common/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/common/page-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/common/page.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/common/search-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/common/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/config-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/editor-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/jquery-1.8.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/module/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/toolbar-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/assets/js/tree-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/background/front/Css/mobile_web.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/cn/tedu/controller/GameInfoController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/cn/tedu/mapper/GameInfoMapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/cn/tedu/pojo/GameInfo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/cn/tedu/service/GameInfoService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/cn/tedu/shiro/AuthCredentialMatcher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/cn/tedu/shiro/AuthRealm.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/cn/tedu/tool/Md5Utils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/cn/tedu/tool/TimeTool.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-shiro.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/applicationContext-shiro.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/applicationContext-shiro.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game.iml" afterPath="$PROJECT_DIR$/game.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/db-oracle.properties" afterPath="$PROJECT_DIR$/src/main/resources/db-oracle.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-mybatis.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-mybatis.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/db-oracle.properties" afterPath="$PROJECT_DIR$/target/classes/db-oracle.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring/applicationContext-mybatis.xml" afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext-mybatis.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring/applicationContext-transaction.xml" afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext-transaction.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring/applicationContext.xml" afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring/springmvc-config.xml" afterPath="$PROJECT_DIR$/target/classes/spring/springmvc-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/game/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/target/game/META-INF/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/game/WEB-INF/classes/db-oracle.properties" afterPath="$PROJECT_DIR$/target/game/WEB-INF/classes/db-oracle.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/game/WEB-INF/classes/jdbc.properties" afterPath="$PROJECT_DIR$/target/game/WEB-INF/classes/jdbc.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/applicationContext-mybatis.xml" afterPath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/applicationContext-mybatis.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/applicationContext-transaction.xml" afterPath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/applicationContext-transaction.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/applicationContext.xml" afterPath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/springmvc-config.xml" afterPath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/springmvc-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/game/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/game/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/game/index.jsp" afterPath="$PROJECT_DIR$/target/game/index.jsp" />
     </list>
     <ignored path="game.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -328,8 +92,8 @@
       <file leaf-file-name="BackgroundGameListC.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/tedu/controller/BackgroundGameListC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="403">
+              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1462,7 +1226,7 @@
       <workItem from="1511590655458" duration="2670000" />
       <workItem from="1511593978942" duration="15086000" />
       <workItem from="1511611930773" duration="201000" />
-      <workItem from="1511658338998" duration="10316000" />
+      <workItem from="1511658338998" duration="11175000" />
     </task>
     <task id="LOCAL-00001" summary="6.0">
       <created>1511677549608</created>
@@ -1471,15 +1235,22 @@
       <option name="project" value="LOCAL" />
       <updated>1511677549608</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="6.0">
+      <created>1511677704082</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1511677704082</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34435000" />
+    <option name="totallyTimeSpent" value="35294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="453" y="18" width="1400" height="1000" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1496,7 +1267,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1832,8 +1603,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/tedu/controller/BackgroundGameListC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="403">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
