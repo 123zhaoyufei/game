@@ -2,551 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4427a2d-9719-4886-a24b-e5e4112a9386" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/fonts/home/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/fonts/home/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/fonts/home/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/fonts/home/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/fonts/home/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/block-head-view-all.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/block-head.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/button-next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/button-prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/content-article-sep.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/content-block-bot.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/content-block-top.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/empty-star.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/footer-navs-bot.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/footer-navs-top.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/full-star.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/img1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/img10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/img2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/img3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/img4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/img5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/img6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/img7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/img8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/img9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/main-bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/main-bot-bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/main-nav-bg-left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/main-nav-bg-right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/main-nav-bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/main-nav-sep.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/nav-active-bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/nav-active-first.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/nav-active-sep.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/search-button.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/search-field.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/sidebar-article-sep.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/sidebar-block-bot.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/sidebar-block-top.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/sign-button.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/slider-cnt-bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/slider-image-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/sort-nav-bg-left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/sort-nav-bg-right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/sort-nav-bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/sort-nav-sep.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/top-nav-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/top-nav-home.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/top-nav-last.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/gameinfo/top-nav-sep.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/about.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/best-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/best-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/best-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/best-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/best-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/best-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/best-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/best-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/best-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/best-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/blog-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/blog-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/blog-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/blog-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/editor-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/editor-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/editor-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/editor-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/editor-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/editor-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/editor-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/editor-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/editor-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/editor-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/new-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/new-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/new-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/new-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/new-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/new-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/new-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/new-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/new-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/new-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/partner-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/platform-1-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/platform-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/platform-2-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/platform-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/platform-3-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/platform-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/platform-4-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/platform-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/popular-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/popular-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/popular-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/popular-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/popular-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/popular-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/popular-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/popular-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/popular-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/popular-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/slide-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/slide-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/slide-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/slide-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/slide-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/star1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/stats-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/stats-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/stats-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/stats-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/stats.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/tabs-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/themes.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/images/home/to-top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/video/animal.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/video/animal.webm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/video/animal.wmv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/gameInfo.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/css/home/animate-custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/css/home/chocolat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/css/home/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/css/home/ie6-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/css/home/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/css/home/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/css/home/style1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/fonts/home/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/js/home/cbpFWTabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/js/home/counterup.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/js/home/fns.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/js/home/jquery-1.3.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/js/home/jquery-2.1.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/js/home/jquery.chocolat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/js/home/owl.carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/js/home/responsiveslides.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticfile/js/home/waypoints.min.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/cn/tedu/service/GameInfoService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/cn/tedu/shiro/AuthCredentialMatcher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/cn/tedu/shiro/AuthRealm.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-shiro.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/css/button.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/css/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/css/left.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/css/login.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/css/table.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/css/title.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/accept.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/assess.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/back.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/cancel.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/clear.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/confirm_back.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/del.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/deploy.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/disable.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/dosearch.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/new.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/people.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/print.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/print_view.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/reject.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/report.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/save.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/save_edit.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/search.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/startup.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/stat.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/update.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/view.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/button/work_assign.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/errmsg/closeimg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/errmsg/err_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/Alert_02.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/Alert_09.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/address_book.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/address_book2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/address_book3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/book_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/book_blue_next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/book_open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/book_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/books.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/books_preferences.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/briefcase_document.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/businessman2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/businessman_view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/calendar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/chart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/clipboard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/clock.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/clock.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/column-chart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/column_add.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/component.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/components.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/creditcards.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/cubes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/currency_yen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/data_edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/data_gear.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/desktop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/document_attachment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/document_chart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/document_into.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/document_lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/document_out.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/documents_gear.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/enter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/folder_cubes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/folder_document.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/folder_edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/folder_forbidden.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/folder_information.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/folder_into.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/folder_lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/folder_ok.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/folder_out.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/form_yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/gears.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/hidden_dept.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/hide_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/history2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/id_card.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/id_card2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/index.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/info.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/mda.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/megaphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/node.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/note_edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/note_view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/pad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/pawn_view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/pda.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/printer2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/server_preferences.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/server_view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/showBureauPlan.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/showBureauPlan2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/showDeptPlan.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/showDeptPlan2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/showThisWeeksum.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/showThisWeeksum2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/showWeekPlanclose.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/showWeekPlanup.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/showWeekSumUpclose.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/showWeekSumUpup.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/showWeekplan.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/showWeekplan2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/showWeeksum.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/showWeeksum2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/show_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/show_dept.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/step.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/success.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/text_view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/user1_find.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/user1_lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/user1_message.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/user1_mobilephone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/user1_monitor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/user1_preferences.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/user1_refresh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/user2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/users4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/users_content.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/users_family.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/users_into.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/woman1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/woman3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/woman4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/icon/worker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/left/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/left/b_l_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/left/b_r_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/left/down.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/left/left_bar_a.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/left/left_bar_ah.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/left/left_title.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/left/t_l_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/left/t_r_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/left/up.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/left_title.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/login/bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/login/bg.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/login/fav_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/login/help_version.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/login/index_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/login/index_input_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/login/index_main_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/login/input_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/login/loginImgOut.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/login/loginImgOver.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/login/login_erro_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/login/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/login/logo.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/login/resetImgOut.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/login/resetImgOver.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/login/vh.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/must.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/notice.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/talk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/tip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/tips.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/title/avataronline.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/title/close.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/title/home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/title/left_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/title/login_out.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/title/memo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/title/nav_menu_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/title/prompt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/title/right_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/title/small_login.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/title/title_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/title/title_bgs.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/images/title/tm_separator.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/staticfile/skin/default/js/toggle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/applicationContext-shiro.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/applicationContext-shiro.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/css/button.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/css/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/css/left.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/css/login.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/css/table.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/css/title.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/accept.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/assess.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/back.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/cancel.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/clear.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/confirm_back.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/del.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/deploy.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/disable.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/dosearch.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/new.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/people.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/print.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/print_view.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/reject.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/report.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/save.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/save_edit.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/search.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/startup.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/stat.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/update.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/view.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/button/work_assign.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/errmsg/closeimg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/errmsg/err_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/Alert_02.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/Alert_09.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/address_book.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/address_book2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/address_book3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/book_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/book_blue_next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/book_open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/book_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/books.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/books_preferences.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/briefcase_document.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/businessman2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/businessman_view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/calendar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/chart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/clipboard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/clock.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/clock.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/column-chart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/column_add.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/component.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/components.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/creditcards.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/cubes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/currency_yen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/data_edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/data_gear.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/desktop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/document_attachment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/document_chart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/document_into.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/document_lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/document_out.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/documents_gear.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/enter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/folder_cubes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/folder_document.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/folder_edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/folder_forbidden.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/folder_information.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/folder_into.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/folder_lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/folder_ok.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/folder_out.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/form_yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/gears.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/hidden_dept.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/hide_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/history2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/id_card.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/id_card2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/index.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/info.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/mda.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/megaphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/node.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/note_edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/note_view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/pad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/pawn_view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/pda.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/printer2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/server_preferences.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/server_view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/showBureauPlan.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/showBureauPlan2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/showDeptPlan.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/showDeptPlan2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/showThisWeeksum.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/showThisWeeksum2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/showWeekPlanclose.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/showWeekPlanup.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/showWeekSumUpclose.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/showWeekSumUpup.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/showWeekplan.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/showWeekplan2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/showWeeksum.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/showWeeksum2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/show_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/show_dept.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/step.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/success.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/text_view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/user1_find.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/user1_lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/user1_message.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/user1_mobilephone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/user1_monitor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/user1_preferences.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/user1_refresh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/user2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/users4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/users_content.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/users_family.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/users_into.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/woman1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/woman3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/woman4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/icon/worker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/left/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/left/b_l_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/left/b_r_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/left/down.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/left/left_bar_a.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/left/left_bar_ah.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/left/left_title.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/left/t_l_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/left/t_r_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/left/up.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/left_title.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/login/bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/login/bg.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/login/fav_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/login/help_version.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/login/index_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/login/index_input_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/login/index_main_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/login/input_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/login/loginImgOut.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/login/loginImgOver.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/login/login_erro_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/login/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/login/logo.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/login/resetImgOut.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/login/resetImgOver.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/login/vh.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/must.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/notice.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/talk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/tip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/tips.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/title/avataronline.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/title/close.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/title/home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/title/left_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/title/login_out.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/title/memo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/title/nav_menu_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/title/prompt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/title/right_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/title/small_login.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/title/title_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/title/title_bgs.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/images/title/tm_separator.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/game/staticfile/skin/default/js/toggle.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring/applicationContext-mybatis.xml" afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext-mybatis.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring/applicationContext-transaction.xml" afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext-transaction.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring/applicationContext.xml" afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring/springmvc-config.xml" afterPath="$PROJECT_DIR$/target/classes/spring/springmvc-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/applicationContext-mybatis.xml" afterPath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/applicationContext-mybatis.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/applicationContext-transaction.xml" afterPath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/applicationContext-transaction.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/applicationContext.xml" afterPath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/springmvc-config.xml" afterPath="$PROJECT_DIR$/target/game/WEB-INF/classes/spring/springmvc-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/game/index.jsp" afterPath="$PROJECT_DIR$/target/game/index.jsp" />
     </list>
     <ignored path="game.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -570,41 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="animate-custom.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/staticfile/css/home/animate-custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="1" column="11" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="chocolat.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/staticfile/css/home/chocolat.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2432">
               <caret line="105" column="2" selection-start-line="105" selection-start-column="1" selection-end-line="105" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="font-awesome.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/staticfile/css/home/font-awesome.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="3" column="14533" selection-start-line="3" selection-start-column="14530" selection-end-line="3" selection-end-column="14533" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ie6-style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/staticfile/css/home/ie6-style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="127" selection-start-line="0" selection-start-column="127" selection-end-line="0" selection-end-column="127" />
               <folding />
             </state>
           </provider>
@@ -620,21 +46,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/staticfile/css/home/style.css">
+      <file leaf-file-name="style1.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/staticfile/css/home/style1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3142">
-              <caret line="1127" column="16" selection-start-line="1127" selection-start-column="16" selection-end-line="1127" selection-end-column="16" />
+            <state relative-caret-position="280">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style1.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/staticfile/css/home/style1.css">
+      <file leaf-file-name="GameController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/tedu/controller/GameController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="36" column="164" selection-start-line="36" selection-start-column="164" selection-end-line="36" selection-end-column="164" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/tedu/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/tedu/mapper/GameMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/tedu/mapper/UserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -645,16 +111,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="springmvc-config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/springmvc-config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -993,104 +449,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="staticfile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gameinfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="staticfile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="staticfile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="home" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1793,7 +1151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1511524116691</updated>
       <workItem from="1511524119663" duration="8576000" />
-      <workItem from="1511658027678" duration="5573000" />
+      <workItem from="1511658027678" duration="6115000" />
     </task>
     <task id="LOCAL-00001" summary="1.2">
       <created>1511528508769</created>
@@ -1809,18 +1167,25 @@
       <option name="project" value="LOCAL" />
       <updated>1511528790110</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1.6">
+      <created>1511663716956</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1511663716956</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14149000" />
+    <option name="totallyTimeSpent" value="14691000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5021299" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5021299" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1835,8 +1200,8 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34336677" sideWeight="0.4978701" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.4978701" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34336677" sideWeight="0.49574015" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
@@ -1863,10 +1228,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
     <MESSAGE value="1.1" />
     <MESSAGE value="1.2" />
     <MESSAGE value="1.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.3" />
+    <MESSAGE value="1.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1984,14 +1351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="18" column="83" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="83" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
           <folding />
         </state>
       </provider>
@@ -2173,8 +1532,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/staticfile/css/home/style1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="36" column="164" selection-start-line="36" selection-start-column="164" selection-end-line="36" selection-end-column="164" />
+        <state relative-caret-position="280">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tedu/controller/GameController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tedu/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tedu/mapper/GameMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tedu/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
           <folding />
         </state>
       </provider>
