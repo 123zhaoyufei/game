@@ -10,8 +10,8 @@
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.4.2" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.4.0" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.4.2" />
-          <element id="library" level="project" name="Maven: com.mchange:c3p0:0.9.2" />
-          <element id="library" level="project" name="Maven: com.mchange:mchange-commons-java:0.2.3.3" />
+          <element id="library" level="project" name="Maven: com.mchange:c3p0:0.9.2.1" />
+          <element id="library" level="project" name="Maven: com.mchange:mchange-commons-java:0.2.3.4" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.2.3.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.2.3.RELEASE" />
           <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
