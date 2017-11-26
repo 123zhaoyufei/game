@@ -16,6 +16,10 @@
 <body>
 <h1>Hello, world!</h1>
 
+<script type="text/javascript">
+    top.location.href = "background.action";		//javascript页面跳转，防止页面嵌套，直接跳到最顶部窗口
+</script>
+
 <!-- jQuery (Bootstrap 的 JavaScript 插件需要引入 jQuery) -->
 <script src="https://code.jquery.com/jquery.js"></script>
 <!-- 包括所有已编译的插件 -->
