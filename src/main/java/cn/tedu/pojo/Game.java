@@ -12,7 +12,6 @@ public class Game {
     private Integer gClass;
     private double gScore;
     private String gPic;
-    private Integer flag;
 
     public Integer getgId() {
         return gId;
@@ -54,11 +53,4 @@ public class Game {
         this.gPic = gPic;
     }
 
-    public Integer getFlag() {
-        return flag;
-    }
-
-    public void setFlag(Integer flag) {
-        this.flag = flag;
-    }
 }
