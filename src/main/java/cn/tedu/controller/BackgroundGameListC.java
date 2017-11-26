@@ -1,6 +1,7 @@
 package cn.tedu.controller;
 
 import cn.tedu.pojo.Game;
+import cn.tedu.pojo.GameInfo;
 import cn.tedu.service.BackgroundGameListS;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -25,9 +26,14 @@ public class BackgroundGameListC {
         return "/background/gamelist/index";
     }
     @RequestMapping("/edit")
-    public String edit(Model model){
-        List<Game> list = bs.findAll();
-        model.addAttribute("games",list);
+    public String edit(Integer gId,Model model){
+        GameInfo gameInfo = bs.findOneGameInfo(gId);
+        model.addAttribute("gameInfo",gameInfo);
         return "/background/gamelist/edit";
+    }
+    @RequestMapping("/index")
+    public String savegl(GameInfo gameInfo){
+        bs.savegl(gameInfo);
+        return "redirect:/gamelist";
     }
 }

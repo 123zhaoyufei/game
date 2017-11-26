@@ -1,3 +1,4 @@
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ page contentType="text/html; charset=utf-8"%>
 <!DOCTYPE html>
 <html>
@@ -34,28 +35,39 @@
     </style>
 </head>
 <body>
-<form action="index.jsp" method="post" class="definewidth m20">
+<form action="index.action" method="post" class="definewidth m20">
 <input type="hidden" name="id" value="" />
 <table class="table table-bordered table-hover ">
     <tr>
-        <td width="10%" class="tableleft">机构号</td>
-        <td><input type="text" name="grouptitle" value=""/></td>
-    </tr>
-    <tr>
-        <td class="tableleft">机构名称</td>
-        <td ><input type="text" name="moduletitle" value=""/></td>
-    </tr>  
-    <tr>
-        <td class="tableleft">状态</td>
-        <td >
-            <input type="radio" name="status" value="1" checked/> 启用
-           <input type="radio" name="status" value="0" /> 禁用
+        <td>
+            <input type="hidden" name="game.gId" value="${gameInfo.game.gId}">
         </td>
     </tr>
     <tr>
+        <td width="10%" class="tableleft">游戏名称</td>
+        <td><input type="text" name="game.gName" value="${gameInfo.game.gName}"/></td>
+    </tr>
+    <tr>
+        <td class="tableleft">游戏类别</td>
+        <td >
+           <select name="game.gClass">
+               <option value="0" <c:if test="${gameInfo.game.gClass==0}">selected="selected"</c:if>>网络游戏</option>
+               <option value="1" <c:if test="${gameInfo.game.gClass==1}">selected="selected"</c:if>>单机游戏</option>
+           </select>
+        </td>
+    </tr>
+    <tr>
+        <td class="tableleft">游戏简介</td>
+        <td >
+            <textarea name="introduction" style="width: 100%;height: 100%;" >${gameInfo.introduction}</textarea>
+        </td>
+    </tr>
+
+    <tr>
         <td class="tableleft"></td>
         <td>
-            <button type="submit" class="btn btn-primary" type="button">保存</button> &nbsp;&nbsp;<button type="button" class="btn btn-success" name="backid" id="backid">返回列表</button>
+            <button type="submit" class="btn btn-primary" type="button">保存</button> &nbsp;&nbsp;
+            <button type="button" class="btn btn-success" name="backid" id="backid">返回列表</button>
         </td>
     </tr>
 </table>
@@ -65,7 +77,7 @@
 <script>
     $(function () {       
 		$('#backid').click(function(){
-				window.location.href="index.jsp";
+				window.location.href="gamelist.action";
 		 });
 
     });

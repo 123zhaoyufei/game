@@ -51,6 +51,7 @@
         <th>序号</th>
         <th>游戏名称</th>
         <th>游戏图片</th>
+        <th>游戏类型</th>
         <th>管理操作</th>
     </tr>
     </thead>
@@ -62,7 +63,11 @@
                 <img src="${g.gPic}">
             </td>
             <td>
-                <a href="edit.action">编辑</a>
+                 <c:if test="${g.gClass==0}">网络游戏</c:if>>
+                 <c:if test="${g.gClass==1}">单机游戏</c:if>>
+            </td>
+            <td>
+                <a href="edit.action?gId=${g.gId}">编辑</a>
             </td>
         </tr>
     </c:forEach>

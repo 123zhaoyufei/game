@@ -6,6 +6,7 @@
 
     <resultMap id="gameinfoRM" type="GameInfo" autoMapping="true">
         <id column="info_id" property="infoId"/>
+        <result column="info_intro" property="introduction"/>
         <association property="game" javaType="Game">
             <id column="g_id" property="gId"/>
             <result column="g_class" property="gClass"/>
@@ -13,7 +14,16 @@
         </association>
     </resultMap>
 
-    <select id="gameList" resultMap="gameinfoRM">
-        SELECT info_intro FROM game_info gi Left JOIN game_list gl on gi.g_id=gl.g_id
+    <select id="findOneGameInfo" resultMap="gameinfoRM">
+        SELECT
+          gi.info_intro,gl.g_name,gl.g_class,gl.g_id
+        FROM
+          game_info gi
+        LEFT JOIN
+          game_list gl
+        ON
+          gi.g_id=gl.g_id where gi.g_id=#{gId}
     </select>
+
+
 </mapper>

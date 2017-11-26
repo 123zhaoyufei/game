@@ -2,6 +2,7 @@ package cn.tedu.service;
 
 import cn.tedu.mapper.BackgroundGameListM;
 import cn.tedu.pojo.Game;
+import cn.tedu.pojo.GameInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -20,8 +21,12 @@ public class BackgroundGameListSImpl implements BackgroundGameListS {
         return bm.findAll();
     }
 
-    public List<Game> gameList() {
-        return bm.gameList();
+    public GameInfo findOneGameInfo(Integer gId) {
+        return bm.findOneGameInfo(gId);
     }
 
+    public void savegl(GameInfo gameInfo) {
+        bm.saveGameInfo(gameInfo);
+        bm.saveGameList(gameInfo);
+    }
 }

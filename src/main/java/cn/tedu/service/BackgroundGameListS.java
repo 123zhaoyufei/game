@@ -1,6 +1,7 @@
 package cn.tedu.service;
 
 import cn.tedu.pojo.Game;
+import cn.tedu.pojo.GameInfo;
 
 import java.util.List;
 
@@ -9,5 +10,6 @@ import java.util.List;
  */
 public interface BackgroundGameListS {
     public List<Game> findAll();
-    public List<Game> gameList();
+    public GameInfo findOneGameInfo(Integer gId);
+    public void savegl(GameInfo gi);
 }
