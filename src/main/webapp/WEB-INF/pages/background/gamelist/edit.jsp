@@ -1,3 +1,4 @@
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ page contentType="text/html; charset=utf-8"%>
 <!DOCTYPE html>
 <html>
@@ -38,19 +39,21 @@
 <input type="hidden" name="id" value="" />
 <table class="table table-bordered table-hover ">
     <tr>
-        <td width="10%" class="tableleft">机构号</td>
-        <td><input type="text" name="grouptitle" value=""/></td>
+        <td width="10%" class="tableleft">游戏名称</td>
+        <td><input type="text" name="" value=""/></td>
     </tr>
     <tr>
-        <td class="tableleft">机构名称</td>
-        <td ><input type="text" name="moduletitle" value=""/></td>
-    </tr>  
-    <tr>
-        <td class="tableleft">状态</td>
+        <td class="tableleft">游戏类别</td>
         <td >
-            <input type="radio" name="status" value="1" checked/> 启用
-           <input type="radio" name="status" value="0" /> 禁用
+           <select name="">
+               <option value="0" <c:if test="">selected="selected"</c:if>>网络游戏</option>
+               <option value="1">单机游戏</option>
+           </select>
         </td>
+    </tr>
+    <tr>
+        <td class="tableleft">游戏简介</td>
+        <td ><input type="text" name="" value=""/></td>
     </tr>
     <tr>
         <td class="tableleft"></td>

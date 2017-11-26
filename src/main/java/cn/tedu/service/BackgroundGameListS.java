@@ -9,4 +9,5 @@ import java.util.List;
  */
 public interface BackgroundGameListS {
     public List<Game> findAll();
+    public List<Game> gameList();
 }

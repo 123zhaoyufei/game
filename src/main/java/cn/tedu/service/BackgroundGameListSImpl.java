@@ -20,4 +20,8 @@ public class BackgroundGameListSImpl implements BackgroundGameListS {
         return bm.findAll();
     }
 
+    public List<Game> gameList() {
+        return bm.gameList();
+    }
+
 }

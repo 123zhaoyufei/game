@@ -62,7 +62,7 @@
                 <img src="${g.gPic}">
             </td>
             <td>
-                <a href="edit.jsp">编辑</a>
+                <a href="edit.action">编辑</a>
             </td>
         </tr>
     </c:forEach>

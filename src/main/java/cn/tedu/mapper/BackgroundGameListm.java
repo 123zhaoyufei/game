@@ -13,4 +13,6 @@ import java.util.List;
 public interface BackgroundGameListM {
     @Select("select * from game_list")
     public List<Game> findAll();
+
+    public List<Game> gameList();
 }
