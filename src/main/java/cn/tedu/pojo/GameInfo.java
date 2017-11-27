@@ -11,6 +11,15 @@ public class GameInfo {
     private String infoId;
     private List<Picture> pictures;
     private Game game;
+    private Comment comment;
+
+    public Comment getComment() {
+        return comment;
+    }
+
+    public void setComment(Comment comment) {
+        this.comment = comment;
+    }
 
     public Game getGame() {
         return game;

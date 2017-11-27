@@ -28,6 +28,7 @@
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700"	   type="text/css" media="all">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,100,300,500" type="text/css" media="all">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Press+Start+2P"		   type="text/css" media="all">
+	<script src="/staticfile/js/common.js"></script>
 <!-- //Fonts -->
 
 <!-- Font-Awesome-File-Links -->
@@ -69,12 +70,12 @@
 
 				<div id="navbar" class="navbar-collapse navbar-right collapse">
 					<ul class="nav navbar-nav navbar-right cross-effect" id="cross-effect">
-						<li><a class="scroll" href="#w3lsaboutaits">首页</a></li>
+						<li><a class="scroll" href="#">首页</a></li>
 						<!--<li><a class="scroll" href="#agileinfoplatforms">单机游戏</a></li>-->
-						<li><a class="scroll" href="#wthreetabsaits">网络游戏</a></li>
-						<li><a class="scroll" href="#wthreeblogsaits">单机游戏</a></li>
-						<li><a class="scroll" href="#w3portfolioaits">排行榜</a></li>
-						<li><a class="scroll" href="#agilecontactw3ls">关于我们</a></li>
+						<li><a class="scroll" href="#">网络游戏</a></li>
+						<li><a class="scroll" href="#">单机游戏</a></li>
+						<li><a class="scroll" href="#">排行榜</a></li>
+						<li><a class="scroll" href="#" onclick="formSubmit('toview','_self');this.blur();">关于我们</a></li>
 						<li class="dropdown">
 							<a href="/tologin.action" class="dropdown-toggle" data-toggle="dropdown">登录</a>
 							<!--<div class="dropdown-menu">
